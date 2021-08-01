@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieMania</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_title">Search</string>
+    <string name="search_movie">Search movie</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="genres">Genres</string>
+</resources>
